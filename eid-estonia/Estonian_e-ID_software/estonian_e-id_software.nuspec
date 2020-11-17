@@ -28,7 +28,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <version>20.10.0.1883</version>
     <packageSourceUrl>https://github.com/oitsev/choc_pack/tree/master/eid-estonia/Estonian_e-ID_software</packageSourceUrl>
     <!-- owners is a poor name for maintainers of the package. It sticks around by this name for compatibility reasons. It basically means you. -->
-    <!--<owners>__REPLACE_YOUR_NAME__</owners>-->
+    <owners>Taavi Tiitsmaa</owners>
     <!-- ============================== -->
 
     <!-- == SOFTWARE SPECIFIC SECTION == -->
